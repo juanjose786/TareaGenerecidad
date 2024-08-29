@@ -1,18 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package tareapair;
 
 import java.util.List;
 
-/**
- *
- * @author juan_
- */
 public class Persona {
-    private String dato1; // Nombre o EPS
-    private String dato2; // Edad o fecha de nacimiento
+    private String dato1;
+    private String dato2; 
 
     public Persona(String dato1, String dato2) {
         this.dato1 = dato1;

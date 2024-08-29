@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package tareapair;
 
 /**
@@ -27,6 +23,6 @@ public class Pair<T, U> {
 
     @Override
     public String toString() {
-        return "Pair{ datos1: (" + dato1.toString() + "), datos2: (" + dato2.toString() + ") }";
+        return "Pair{ datoss1: (" + dato1.toString() + "), datos2: (" + dato2.toString() + ") }";
     }
 }
