@@ -19,8 +19,9 @@ public class TareaPair {
         lista.add(yo);
 
         for (Pair<Persona, Persona> pair : lista) {
-            System.out.println(pair);
+            System.out.println(pair.toString());
         }
+        
         
         
     }
